@@ -51,6 +51,9 @@ EditorBuildSettings:
     path: Assets/Custom/Level/Dev/Dev1.unity
     guid: 3490be5abca5f9747bbe17a6015e4260
   - enabled: 1
-    path: Assets/Custom/Level/Level1.unity
+    path: Assets/Custom/Level/Level2.unity
     guid: f757f4dd2237566449ec02960c78aff1
+  - enabled: 1
+    path: Assets/Custom/Level/Level1.unity
+    guid: bf9f6542561b9734ca7b6bc57c87b687
   m_configObjects: {}
