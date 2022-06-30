@@ -1,19 +1,16 @@
 fileFormatVersion: 2
-guid: 27301ed87474b7249a77525b316824d5
+guid: d196b69d7c6fd4940963d050dca445d4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2714453574471835212
-    second: 2 1_0
+      213: -5594959432081757160
+    second: tilesetCUP4543_0
   - first:
-      213: -3862904964307631369
-    second: 2 1_1
+      213: -9051006129041908643
+    second: tilesetCUP4543_1
   - first:
-      213: 1892929244092256549
-    second: 2 1_2
-  - first:
-      213: 8530660036605219887
-    second: 2 1_3
+      213: 995224531931060547
+    second: tilesetCUP4543_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -100,30 +97,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
     buildTarget: Windows Store Apps
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -147,108 +120,92 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 2 1_0
+      name: tilesetCUP4543_0
       rect:
         serializedVersion: 2
-        x: 317
+        x: 43
         y: 54
-        width: 87
+        width: 85
         height: 85
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape:
-      - - {x: -43.5, y: 42.5}
-        - {x: -43.5, y: -42.5}
-        - {x: 43.5, y: -42.5}
-        - {x: 43.5, y: 42.5}
+      physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4edea9e42daba520800000000000000
-      internalID: 2714453574471835212
+      spriteID: 81cab063a06ba52b0800000000000000
+      internalID: -5594959432081757160
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2 1_1
-      rect:
-        serializedVersion: 2
-        x: 226
-        y: 55
-        width: 85
-        height: 84
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 60}
-      outline: []
-      physicsShape:
-      - - {x: 8.120392, y: -13.485886}
-        - {x: -42.5, y: -14.485886}
-        - {x: -42.5, y: -42}
-        - {x: 42.5, y: -42}
-        - {x: 42.5, y: -12.796082}
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7f2c959c664346ac0800000000000000
-      internalID: -3862904964307631369
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 2 1_2
+      name: tilesetCUP4543_1
       rect:
         serializedVersion: 2
         x: 134
-        y: 55
+        y: 54
         width: 86
-        height: 84
+        height: 85
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 60}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape:
-      - - {x: 8.120392, y: -13.485886}
-        - {x: -42.5, y: -14.485886}
-        - {x: -42.5, y: -42}
-        - {x: 42.5, y: -42}
-        - {x: 42.5, y: -12.796082}
+      physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 521511b4e19054a10800000000000000
-      internalID: 1892929244092256549
+      spriteID: d5cd29241ed546280800000000000000
+      internalID: -9051006129041908643
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2 1_3
+      name: tilesetCUP4543_2
       rect:
         serializedVersion: 2
-        x: 42
-        y: 54
-        width: 86
-        height: 85
+        x: 225
+        y: 53
+        width: 87
+        height: 86
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 53}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape:
-      - - {x: 8.120392, y: -13.485886}
-        - {x: -42.5, y: -14.485886}
-        - {x: -42.5, y: -42}
-        - {x: 42.5, y: -42}
-        - {x: 42.5, y: -12.796082}
+      physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f24997d1b1ef26670800000000000000
-      internalID: 8530660036605219887
+      spriteID: 3495189507fbfcd00800000000000000
+      internalID: 995224531931060547
       vertices: []
       indices: 
       edges: []

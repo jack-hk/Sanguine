@@ -1969,22 +1969,27 @@ PrefabInstance:
     - target: {fileID: 114854669915511232, guid: 73360cdb4e1e7ed4897690f9d57fd0eb,
         type: 3}
       propertyPath: maxSpeed
-      value: 35
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 114854669915511232, guid: 73360cdb4e1e7ed4897690f9d57fd0eb,
         type: 3}
       propertyPath: jumpSpeed
-      value: 20
+      value: 8.5
       objectReference: {fileID: 0}
     - target: {fileID: 114854669915511232, guid: 73360cdb4e1e7ed4897690f9d57fd0eb,
         type: 3}
       propertyPath: groundAcceleration
-      value: 60
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 114854669915511232, guid: 73360cdb4e1e7ed4897690f9d57fd0eb,
         type: 3}
       propertyPath: groundDeceleration
-      value: 60
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 114854669915511232, guid: 73360cdb4e1e7ed4897690f9d57fd0eb,
+        type: 3}
+      propertyPath: jumpAbortSpeedReduction
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114861759401168572, guid: 73360cdb4e1e7ed4897690f9d57fd0eb,
         type: 3}
